@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=refsa&layout=compact&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Refsas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=refsa)](https://github.com/anuraghazra/github-readme-stats)
+[![Refsas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=refsa&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Refsa/refsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
